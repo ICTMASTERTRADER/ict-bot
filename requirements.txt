@@ -1,0 +1,7 @@
+pandas
+python-telegram-bot==20.3
+yfinance
+pandas 
+python-telegram-bot 
+requests 
+yfinance
