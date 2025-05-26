@@ -1,0 +1,16 @@
+[20:00] TF: 1M | SMT: Bearish SMT | MSS: - | FVG: - | OB: Bullish OB | Bias: Sideways | Killzone: No
+[20:00] TF: 5M | SMT: Bearish SMT | MSS: Bearish MSS | FVG: - | OB: Bearish OB | Bias: Sideways | Killzone: No
+[20:00] TF: 15M | SMT: - | MSS: Bearish MSS | FVG: - | OB: Bullish OB | Bias: Sideways | Killzone: No
+[13:30] TF: 1D | SMT: Bearish SMT | MSS: Bearish MSS | FVG: - | OB: Bearish OB | Bias: Bearish Bias | Killzone: New York
+[20:00] TF: 1M | SMT: Bearish SMT | MSS: - | FVG: - | OB: Bullish OB | Bias: Sideways | Killzone: No
+[20:00] TF: 5M | SMT: Bearish SMT | MSS: Bearish MSS | FVG: - | OB: Bearish OB | Bias: Sideways | Killzone: No
+[20:00] TF: 15M | SMT: - | MSS: Bearish MSS | FVG: - | OB: Bullish OB | Bias: Sideways | Killzone: No
+[13:30] TF: 1D | SMT: Bearish SMT | MSS: Bearish MSS | FVG: - | OB: Bearish OB | Bias: Bearish Bias | Killzone: New York
+[20:00] TF: 1M | SMT: Bearish SMT | MSS: - | FVG: - | OB: Bullish OB | Bias: Sideways | Killzone: No
+[20:00] TF: 5M | SMT: Bearish SMT | MSS: Bearish MSS | FVG: - | OB: Bearish OB | Bias: Sideways | Killzone: No
+[20:00] TF: 15M | SMT: - | MSS: Bearish MSS | FVG: - | OB: Bullish OB | Bias: Sideways | Killzone: No
+[13:30] TF: 1D | SMT: Bearish SMT | MSS: Bearish MSS | FVG: - | OB: Bearish OB | Bias: Bearish Bias | Killzone: New York
+[20:00] TF: 1M | SMT: Bearish SMT | MSS: - | FVG: - | OB: Bullish OB | Bias: Sideways | Killzone: No
+[20:00] TF: 5M | SMT: Bearish SMT | MSS: Bearish MSS | FVG: - | OB: Bearish OB | Bias: Sideways | Killzone: No
+[20:00] TF: 15M | SMT: - | MSS: Bearish MSS | FVG: - | OB: Bullish OB | Bias: Sideways | Killzone: No
+[13:30] TF: 1D | SMT: Bearish SMT | MSS: Bearish MSS | FVG: - | OB: Bearish OB | Bias: Bearish Bias | Killzone: New York
